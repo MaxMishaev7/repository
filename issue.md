@@ -16,3 +16,8 @@
 **Скриншот**
 
 [Скриншот проблемного места страницы](https://github.com/MaxMishaev7/repository/blob/2055b03340df0de5e5d8d42dd1324d8ac790ca2a/TextOffsetError.png)
+
+
+Ссылка на опубликованный issue:
+
+https://github.com/netology-code/git-2-homeworks-issues/issues/3734#issue-1732458706

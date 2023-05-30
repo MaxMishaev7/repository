@@ -15,4 +15,4 @@
 
 **Скриншот**
 
-[Скриншот проблемного места страницы](https://camo.githubusercontent.com/5d3acce2b945789b7c0e6f68dbfd876a54fa134268e0965075afa96852451904/68747470733a2f2f692e696d6775722e636f6d2f484a3156624d6a2e706e67)
+[Скриншот проблемного места страницы](https://github.com/MaxMishaev7/repository/blob/2055b03340df0de5e5d8d42dd1324d8ac790ca2a/TextOffsetError.png)

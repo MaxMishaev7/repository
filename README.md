@@ -15,4 +15,4 @@
 
 **Скриншот**
 
-[Скриншот проблемного места страницы](https://github.com/MaxMishaev7/repository/blob/2055b03340df0de5e5d8d42dd1324d8ac790ca2a/TextOffsetError.png)
+![Скриншот проблемного места страницы](https://github.com/MaxMishaev7/repository/blob/2055b03340df0de5e5d8d42dd1324d8ac790ca2a/TextOffsetError.png)
